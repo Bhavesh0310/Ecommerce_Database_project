@@ -95,17 +95,3 @@ JOIN customers c ON o.customer_id = c.customer_id;
 * Connect database with a backend (Node.js / Java / Python)
 * Implement **indexes** for performance optimization
 * Extend schema for inventory & shipment tracking
-
----
-
-## 👨‍💻 Author
-
-**Bhavesh Sahu**
-🎓 Computer Science Graduate (2025)
-📊 Aspiring Data Analyst / Backend Developer
-
-🔗 GitHub: [https://github.com/Bhavesh0310](https://github.com/Bhavesh0310)
-
----
-
-⭐ If you find this project useful,
